@@ -1,4 +1,4 @@
-player-console {
+/* player-console { */
   display: none;
 }
 body {
@@ -14,5 +14,5 @@ body {
 }
 label {
   color: rgb(34, 30, 30);
-  /* font-style: italic; */
+   font-style: italic; 
 }
