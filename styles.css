@@ -1,5 +1,5 @@
-/* .player-console { */
-  display: none;
+player-console {
+  /* display: none; */
 }
 body {
   background-color: blue;
