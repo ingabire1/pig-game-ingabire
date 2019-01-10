@@ -1,5 +1,5 @@
-/* player-console { */
-  display: none;
+/player-console {
+  /* display: none; */
 }
 body {
   background-color: blue;
@@ -14,5 +14,5 @@ body {
 }
 label {
   color: rgb(34, 30, 30);
-   font-style: italic; 
+  font-style: italic;
 }
