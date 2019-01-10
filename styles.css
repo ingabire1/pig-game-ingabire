@@ -1,8 +1,8 @@
 player-console {
-  /* display: none; */
+  display: none;
 }
 body {
-  background-color: blue;
+  /* background-color: blue; */
   text-align: center;
   padding-top: 100px;
   color: white;
