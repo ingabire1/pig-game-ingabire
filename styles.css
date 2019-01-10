@@ -13,6 +13,6 @@ body {
   font-style: italic;
 }
 label {
-  /* color: rgb(34, 30, 30); */
-  font-style: italic;
+  color: rgb(34, 30, 30);
+  /* font-style: italic; */
 }
