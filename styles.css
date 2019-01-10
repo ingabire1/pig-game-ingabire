@@ -1,7 +1,7 @@
 /player-console {
-  /* display: none; */
+  /display: none; 
 }
-body {
+/* body { */
   background-color: blue;
   text-align: center;
   padding-top: 100px;
