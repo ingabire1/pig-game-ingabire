@@ -10,9 +10,9 @@ body {
 
 .jumbotron h1 {
   color: rgb(34, 30, 30);
-  /* font-style: italic; */
+  font-style: italic;
 }
 label {
-  color: rgb(34, 30, 30);
+  /* color: rgb(34, 30, 30); */
   font-style: italic;
 }
