@@ -2,16 +2,18 @@ player-console {
   display: none;
 }
 body {
-  background-color: blue;
   text-align: center;
   padding-top: 100px;
-  /* color: white; */
+  color: white;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBsYI9FcUqg_2cXs6z-fnUMa58wapPtMkCesPZPAVx5ZkOViRkw");
+  background-size: cover;
 }
 
 .jumbotron h1 {
   color: rgb(34, 30, 30);
   font-style: italic;
 }
+
 label {
   color: rgb(34, 30, 30);
   font-style: italic;
