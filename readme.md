@@ -43,9 +43,9 @@ All safe , no bugs will be encoutered when playing this game. But in case it is 
 * _Bootstrap_
 * _JavaScript_
 * _jQuery_
-  \*-Github
-  ##Support and contact details
-  ####If needed contact me on:
+  \ *-Github
+  ## Support and contact details
+  #### If needed contact me on:
 
 E-mail:ingabire.sylvie@gmail.com
 Tel:0732702205-0781899928.
