@@ -21,7 +21,7 @@ This web application allows two players to play a game of Pig Dice.Players throw
 
 - Open your computer
 - Connect to internet
-- search for my link: https://ingabire1.github.io/pig-dice/
+- search for my link: https://ingabire1.github.io/pig-game-ingabire/
   -There you are, Time for game!
 
 ## BDD(Behavior-Driven Development)
