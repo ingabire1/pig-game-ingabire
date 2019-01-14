@@ -48,7 +48,7 @@ All safe , no bugs will be encoutered when playing this game. But in case it is 
   #### If needed contact me on:
 
 E-mail:ingabire.sylvie@gmail.com
-Tel:0732702205-0781899928.
+Tel:0785642202/0785163774
 
 ### License
 
